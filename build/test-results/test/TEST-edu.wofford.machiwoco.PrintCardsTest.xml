@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.PrintCardsTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.007">
+  <properties/>
+  <testcase name="testCheeseFactory" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testRanch" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testCafe" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.001"/>
+  <testcase name="testMine" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testFarmersMarket" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testAppleOrchard" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testRadioTower" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testShoppingMall" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testTrainStation" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testBusinessComplex" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testFurnitureFactory" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testTVStation" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testAmusementPark" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testBakery" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testForest" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testFamilyRestaurant" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.001"/>
+  <testcase name="testConvenienceStore" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.001"/>
+  <testcase name="testWheatField" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.0"/>
+  <testcase name="testStadium" classname="edu.wofford.machiwoco.PrintCardsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

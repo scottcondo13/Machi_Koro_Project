@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.GameMenuTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.031">
+  <properties/>
+  <testcase name="getPlayerCardInfoTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.002"/>
+  <testcase name="createPurchaseFieldTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createConstructionFieldTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createPlayerMenuTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createDoNothingFieldTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.0"/>
+  <testcase name="getPlayerLandmarkInfoTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createPurchaseMenuTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.002"/>
+  <testcase name="getPlayerNameMoneyTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.0"/>
+  <testcase name="menuLineFormatterTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createGameStateDisplayTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.002"/>
+  <testcase name="getPlayerInfoTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.0"/>
+  <testcase name="purchaseMenuLineFormatterTest" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createMarketMenuPhase1Test" classname="edu.wofford.machiwoco.GameMenuTest" time="0.001"/>
+  <testcase name="createMarketMenuPhase2Test" classname="edu.wofford.machiwoco.GameMenuTest" time="0.0"/>
+  <testcase name="sortListByActNum" classname="edu.wofford.machiwoco.GameMenuTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

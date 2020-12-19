@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.GameTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.097">
+  <properties/>
+  <testcase name="playerCreateEstabLandTest" classname="edu.wofford.machiwoco.GameTest" time="0.032"/>
+  <testcase name="gamePhase0Test" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="endTurnTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="purchaseAvailableEstablishment" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="rollCheckNoTrainStation" classname="edu.wofford.machiwoco.GameTest" time="0.005"/>
+  <testcase name="getHumanPlayersTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="gamePrintCards" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="playerCreatePhase1NoAI" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="getAiPlayersTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="checkPlayerCards" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="numPlayersTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="trainActivatedTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="isOverTest" classname="edu.wofford.machiwoco.GameTest" time="0.0"/>
+  <testcase name="currentPlayerLandMarkBuiltTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="getPlayersTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="rollCheckTrainTest" classname="edu.wofford.machiwoco.GameTest" time="0.005"/>
+  <testcase name="getCurrentPlayerTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="checkForRedCardActivation" classname="edu.wofford.machiwoco.GameTest" time="0.006"/>
+  <testcase name="gameWinnerTest" classname="edu.wofford.machiwoco.GameTest" time="0.002"/>
+  <testcase name="consectutiveTurnTest" classname="edu.wofford.machiwoco.GameTest" time="0.022"/>
+  <testcase name="playerCreatePhase1AI" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="preRollTest" classname="edu.wofford.machiwoco.GameTest" time="0.003"/>
+  <testcase name="getPlayerTest" classname="edu.wofford.machiwoco.GameTest" time="0.0"/>
+  <testcase name="getRollTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="playerCreateNumPlayersTest" classname="edu.wofford.machiwoco.GameTest" time="0.002"/>
+  <testcase name="firstTurnTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="checkPlayerCardsTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <testcase name="setTurnTest" classname="edu.wofford.machiwoco.GameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

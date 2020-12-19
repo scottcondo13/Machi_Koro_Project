@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.GameDisplayTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.018">
+  <properties/>
+  <testcase name="setForestLineTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.002"/>
+  <testcase name="setWheatFieldLineTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="setAvailablePropertiesTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="getLineTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="orderByActivationNumberTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.007"/>
+  <testcase name="padTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.001"/>
+  <testcase name="getMarketSelectionTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="displayMarketTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="setLineEstablishmentTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.0"/>
+  <testcase name="setCityHallLineTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.001"/>
+  <testcase name="displayGameInfoTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.001"/>
+  <testcase name="setLineLandmarksTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.001"/>
+  <testcase name="setRanchLineTest" classname="edu.wofford.machiwoco.GameDisplayTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

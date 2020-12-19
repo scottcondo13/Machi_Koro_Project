@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.CardHandlingTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.003">
+  <properties/>
+  <testcase name="tvStationActivatedPromptTest" classname="edu.wofford.machiwoco.CardHandlingTest" time="0.001"/>
+  <testcase name="payPlayerTest" classname="edu.wofford.machiwoco.CardHandlingTest" time="0.0"/>
+  <testcase name="greenCardActivatedTest" classname="edu.wofford.machiwoco.CardHandlingTest" time="0.001"/>
+  <testcase name="redCardActivationTest" classname="edu.wofford.machiwoco.CardHandlingTest" time="0.0"/>
+  <testcase name="blueCardActivatedTest" classname="edu.wofford.machiwoco.CardHandlingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

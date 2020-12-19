@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.CardTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.022">
+  <properties/>
+  <testcase name="isActivatedDifferentRangeTest" classname="edu.wofford.machiwoco.CardTest" time="0.005"/>
+  <testcase name="isActivatedFalseTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardActivationNumberTest" classname="edu.wofford.machiwoco.CardTest" time="0.001"/>
+  <testcase name="isActivatedTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardSetColorTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="setNameTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardIconTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardCostTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="equalsTest" classname="edu.wofford.machiwoco.CardTest" time="0.013"/>
+  <testcase name="cardActivationRangeTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="hashCodeTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardOverloadConstructor" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="PayoutTest" classname="edu.wofford.machiwoco.CardTest" time="0.0"/>
+  <testcase name="cardConstructorTest" classname="edu.wofford.machiwoco.CardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

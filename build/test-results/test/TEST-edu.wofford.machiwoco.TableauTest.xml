@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.TableauTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.003">
+  <properties/>
+  <testcase name="removeCardTest" classname="edu.wofford.machiwoco.TableauTest" time="0.0"/>
+  <testcase name="tableauConstructorTest" classname="edu.wofford.machiwoco.TableauTest" time="0.001"/>
+  <testcase name="getNumLandmarksTest" classname="edu.wofford.machiwoco.TableauTest" time="0.0"/>
+  <testcase name="getNumLandmarksBuiltTest" classname="edu.wofford.machiwoco.TableauTest" time="0.0"/>
+  <testcase name="addCardStringTest" classname="edu.wofford.machiwoco.TableauTest" time="0.001"/>
+  <testcase name="getNumberOfCardsTest" classname="edu.wofford.machiwoco.TableauTest" time="0.0"/>
+  <testcase name="addLandmarkTest" classname="edu.wofford.machiwoco.TableauTest" time="0.0"/>
+  <testcase name="getNumTypesOfCardsTest" classname="edu.wofford.machiwoco.TableauTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

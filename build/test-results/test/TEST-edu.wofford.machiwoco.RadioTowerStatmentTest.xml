@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.RadioTowerStatmentTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.005">
+  <properties/>
+  <testcase name="radioReroll1No" classname="edu.wofford.machiwoco.RadioTowerStatmentTest" time="0.001"/>
+  <testcase name="radioReroll2No" classname="edu.wofford.machiwoco.RadioTowerStatmentTest" time="0.001"/>
+  <testcase name="radioReroll1Yes" classname="edu.wofford.machiwoco.RadioTowerStatmentTest" time="0.001"/>
+  <testcase name="radioReroll2Yes" classname="edu.wofford.machiwoco.RadioTowerStatmentTest" time="0.001"/>
+  <testcase name="radioPromptTest" classname="edu.wofford.machiwoco.RadioTowerStatmentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

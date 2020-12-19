@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.GameNotificationsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.011">
+  <properties/>
+  <testcase name="promptForRoll" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.003"/>
+  <testcase name="insuficientFundsTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.001"/>
+  <testcase name="startGameStartNotificationTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="turnStartTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="viewPromptTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="buyPromptTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="chosePlayerPromptTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.001"/>
+  <testcase name="endOfTurnTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="choseEstablishmentPromptTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.001"/>
+  <testcase name="rollNotificationTest" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.0"/>
+  <testcase name="purchaseNotification" classname="edu.wofford.machiwoco.GameNotificationsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

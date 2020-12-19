@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.SimpleAiTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.005">
+  <properties/>
+  <testcase name="generateRandomIntTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.0"/>
+  <testcase name="isAiTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.001"/>
+  <testcase name="getNumEntriesInMenuTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.001"/>
+  <testcase name="setAiFalseTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.0"/>
+  <testcase name="aiPurchaseOutputTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.001"/>
+  <testcase name="aiTurnTest" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.001"/>
+  <testcase name="aiPurchaseSelect" classname="edu.wofford.machiwoco.SimpleAiTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

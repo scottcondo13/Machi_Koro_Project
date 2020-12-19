@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.StrategicAITest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.017">
+  <properties/>
+  <testcase name="obtainRanchTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.001"/>
+  <testcase name="trainStationPromptTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.0"/>
+  <testcase name="inMarketTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.001"/>
+  <testcase name="strategicBuyTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.012"/>
+  <testcase name="checkAI" classname="edu.wofford.machiwoco.StrategicAITest" time="0.0"/>
+  <testcase name="reRollTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.001"/>
+  <testcase name="obtainShoppingMallTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.001"/>
+  <testcase name="getRollTest" classname="edu.wofford.machiwoco.StrategicAITest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

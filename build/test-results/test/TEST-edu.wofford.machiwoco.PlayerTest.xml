@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.machiwoco.PlayerTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-12-09T19:21:00" hostname="Scotts-MBP.home" time="0.009">
+  <properties/>
+  <testcase name="getWalletTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="addMoneyTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="purchaseTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.001"/>
+  <testcase name="addEstablishmentTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.001"/>
+  <testcase name="getNumTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getNameTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getNumLandmarksBuiltTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getLandMarkNames" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="rollDice" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="isMallBuiltTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="addLandmarkTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="equalsTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.001"/>
+  <testcase name="getEstablishmentNames" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getEstablishmentsTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getEstablishmentTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="redCardActivationTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.001"/>
+  <testcase name="addEstablishmentStringTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <testcase name="getLandmarksTest" classname="edu.wofford.machiwoco.PlayerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
